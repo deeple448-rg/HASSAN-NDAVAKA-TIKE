@@ -1,0 +1,6 @@
+{
+  "name": "Hassan Ndavaka Tike — Parcours, Racines & Voyages",
+  "description": "Blog personnel et carnet de voyage de Hassan Ndavaka Tike : de Wolorde et Tokombéré au Cameroun jusqu'aux salles de classe internationales en Inde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
